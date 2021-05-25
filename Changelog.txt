@@ -1,0 +1,10 @@
+90.6.50:
+-Updated CEF to 90.6.50.
+-Added Multiple Tab Support.
+-You Don't have to use the shortcut
+anymore, because I Added a batch file
+to change the user agent. Just click on
+startgreenium.bat and the browser will
+start with the changed user agent.
+- Moved The Back, Forward, Refresh, Go buttons and the Address Bar to the
+Bottom of the window.
