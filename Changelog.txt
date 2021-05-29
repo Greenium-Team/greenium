@@ -8,3 +8,9 @@ startgreenium.bat and the browser will
 start with the changed user agent.
 - Moved The Back, Forward, Refresh, Go buttons and the Address Bar to the
 Bottom of the window.
+90.6.50_NewGen:
+-Added Easytabs to the browser (To make the browser more chrome-like.)
+-No Back and foward buttons. You have to press the right mouse button,
+then choose to go back or forward in the context menu.
+-Added proper copyright and signature information to the browser's exe file.
+-Added the fixed version startgreenium.bat.(You have to click on it to start the browser with changed user agent.)
