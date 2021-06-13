@@ -14,3 +14,9 @@ Bottom of the window.
 then choose to go back or forward in the context menu.
 -Added proper copyright and signature information to the browser's exe file.
 -Added the fixed version startgreenium.bat.(You have to click on it to start the browser with changed user agent.)
+90.6.70_NewGen:
+-Added Green color scheme.
+-Updated CEF to 90.6.70.
+-Added Download function to the browser. When the download is complete the browser is gonna show
+a Message box with the text:
+"Download Complete!"
